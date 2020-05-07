@@ -1,0 +1,101 @@
+#header{
+	box-shadow: -10px 0 15px 1px rgba(0, 0, 0, 0.4);
+	position: sticky;
+	background: #afb4bc;
+	vertical-align: middle;
+}
+
+#logo{
+	vertical-align: middle;
+	text-align: center;
+	color: #000000;
+	font-family: anydore;
+	font-weight: normal;
+	font-size: 8.2vh;
+	margin: 0px;
+}
+
+a{
+	text-decoration: none;
+	color: #000000;
+	font-family: american captain;
+	font-size: 2.7vh;
+}
+
+a:hover{
+	color: #063787;
+}
+
+a:active{
+	color: #ed0707;
+}
+
+#left_block{
+	float: left;
+	position: absolute;
+	left: -2%;
+	margin-top: -7vh;
+	margin-left: -1vh;
+}
+
+#home_div{
+	margin-left: 5vw;
+}
+
+#about_div{
+	margin-left: 4vw;
+}
+
+#services_div{
+	margin-left: 4vw;
+}
+
+body{
+	margin: 0;
+	padding: 0;
+}
+h2{
+	font-family: cinzel decorative bold;
+	font-size: 33px;
+}
+#what_we_do{
+	width: 40%;
+	text-align: center;
+	vertical-align: middle;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 5vh;
+}
+#what_we_do_para{
+	font-size: 17px; 
+}
+#exc{
+	text-align: center;
+	margin-top: 8vh;
+	text-decoration: underline;
+}
+p{
+	text-align: justify;
+	font-family: calibri;
+}
+h3{
+	font-family: Bahnschrift;
+}
+#x247{
+	width: 12%;
+	float: left;
+	margin-left: 45vh;
+	text-align: center;
+}
+#complain{
+	width: 15%;
+	float: left;
+	text-align: center;
+	margin-left: 11%;
+}
+#bill{
+	width: 12%;
+	float: right;
+	text-align: center;
+	margin-right: 45vh;
+}

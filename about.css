@@ -1,0 +1,55 @@
+#header{
+	box-shadow: 0 0 15px 1px rgba(0, 0, 0, 0.4);
+	position: sticky;
+	background: #afb4bc;
+}
+
+#logo{
+	position: static;
+	vertical-align: middle;
+	text-align: center;
+	color: #000000;
+	font-family: anydore;
+	font-weight: normal;
+	font-size: 8.2vh;
+	margin: 0px;
+}
+
+a{
+	text-decoration: none;
+	color: #000000;
+	font-family: american captain;
+	font-size: 2.7vh;
+}
+
+a:hover{
+	color: #063787;
+}
+
+a:active{
+	color: #ed0707;
+}
+
+#left_block{
+	float: left;
+	position: absolute;
+	left: -2%;
+	margin-top: -7vh;
+	margin-left: -1vh;
+}
+
+#home_div{
+	margin-left: 5vw;
+}
+
+#about_div{
+	margin-left: 4vw;
+}
+
+#services_div{
+	margin-left: 4vw;
+}
+
+body{
+	margin: 0;
+}
